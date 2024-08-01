@@ -1,5 +1,5 @@
 # program file
-1a [program file](fcfs_0529.py)
+1a [program file](fcfs_0529.py.png)
 
 # sample output
 1a [sample output](fcfs_0529.png)
