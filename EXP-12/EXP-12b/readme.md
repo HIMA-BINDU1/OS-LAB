@@ -1,8 +1,8 @@
 # Program file
-![Program file](mft_547.py)
+![Program file](mft_529.py)
 
 # Program image
-![Program file](mft_547_program.png.png)
+![Program file](mft_529_program.png.png)
 
 # Program output
-![Program output](mft_547_output.png.png)
+![Program output](mft_529_output.png.png)
