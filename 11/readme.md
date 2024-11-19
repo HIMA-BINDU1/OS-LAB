@@ -5,4 +5,4 @@
 ![program image](dining-philosopher_program.png.png)
 
 # program output
-![program output](dining-philosopher_output.png)
+![program output](dining-philosopher_output.png.png)
