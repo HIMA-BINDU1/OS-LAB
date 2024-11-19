@@ -1,8 +1,8 @@
 # program file
-![program file](dinning-philosopher.py)
+![program file](dining-philosopher.py)
 
 # program image
-![program image](dinning-philosopher_program.png)
+![program image](dining-philosopher_program.png)
 
 # program output
-![program output](dinning-philosopher_output.png)
+![program output](dining-philosopher_output.png)
