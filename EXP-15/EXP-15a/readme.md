@@ -1,8 +1,8 @@
 # program file
-![program file](secondleveldirectory.py)
+![program file](singleleveldirectory.py)
 
 # program image
-![program image](secondleveldirectory_program.png)
+![program image](singleleveldirectory_program.png)
 
 # program output
-![program output](secondleveldirectory_output.png)
+![program output](singleleveldirectory_output.png)
